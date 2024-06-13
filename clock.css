@@ -40,15 +40,11 @@
         font-weight:bolder;
         color: rgba(234, 229, 199, 0.796);
         }
-        .action p{
-        line-height: 100%;
-        font-style: normal;
-        font-family: "Oswald", sans-serif;
-        font-optical-sizing: auto;
-        font-size: 27vmax;
-        text-align: center;
-        overflow-y: hidden;
-        overflow-x: hidden;
-        margin: auto;
-        box-sizing: border-box;
-    }
+        .action p {
+       text-align: center;
+       font-size: 27vmax;
+       font-weight: bold;
+       margin: auto;
+       /* background-color: blue; */
+       font-family: "Oswald", sans-serif;
+       }
